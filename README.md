@@ -61,9 +61,3 @@ This is part of the Language Technology Program by The Icelandic Government thro
 
 ### Licence
 Apache 2.0
-
-Todo's
-* You should list the command to run your code and where the rttm and txt files are expected to be
-
-
-
